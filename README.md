@@ -1,10 +1,10 @@
-<h4 id="topic3">Topic 3 - MVC AngularJS</h4>
+<h4 id="topic3">Topic 3 - Angular</h4>
 
 **Reading**
 
 1. [Ultimate guide to learn Angular.js in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/).
 
-2. Read Angular.js's [Developers Guide](https://docs.angularjs.org/guide).
+2. Read Angular's [Architecture](https://angular.io/guide/architecture).
 
 3. Check your code to comply with Angular.js's [Best Practices](https://github.com/angular/angular.js/wiki/Best-Practices).
 
