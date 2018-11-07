@@ -23,7 +23,9 @@
 4. Configure Karma and write tests for your application.
 
 Tips:
-* Learn how to use [components](https://docs.angularjs.org/guide/component) to structure your application
+* Learn how to use [modules](https://angular.io/guide/architecture-modules)
+* Learn how to use [components](https://angular.io/guide/architecture-components) to structure your application
+* Learn how to use [DI](https://angular.io/guide/architecture-services)
 
 **Key Points**
 
