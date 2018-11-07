@@ -6,11 +6,11 @@
 
 2. Read Angular's [Architecture](https://angular.io/guide/architecture).
 
-3. Check your code to comply with Angular.js's [Best Practices](https://github.com/angular/angular.js/wiki/Best-Practices).
+3. Check your code to comply with Angular's [Style Guide](https://angular.io/guide/styleguide).
 
-4. Check your code to avoid Angular.js's [Anti-patterns](https://github.com/angular/angular.js/wiki/Anti-Patterns)
+4. Learn reactive programming with [RxJS](https://angular.io/guide/rx-library)
 
-5. Learn how to create unit tests for your angular.js applications [https://docs.angularjs.org/guide/unit-testing](https://docs.angularjs.org/guide/unit-testing)
+5. Learn how to create unit tests for your angular applications [https://angular.io/guide/testing](https://angular.io/guide/testing)
 
 **Practice**
 
