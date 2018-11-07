@@ -2,7 +2,7 @@
 
 **Reading**
 
-1. [Ultimate guide to learn Angular.js in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/).
+1. [Getting Started](https://angular.io/guide/quickstart).
 
 2. Read Angular's [Architecture](https://angular.io/guide/architecture).
 
