@@ -2,7 +2,7 @@
 
 **Reading**
 
-1. [Getting Started](https://angular.io/guide/quickstart).
+1. [Getting Started](https://malcoded.com/posts/angular-beginners-guide)(https://angular.io/guide/quickstart).
 
 2. Read Angular's [Architecture](https://angular.io/guide/architecture).
 
