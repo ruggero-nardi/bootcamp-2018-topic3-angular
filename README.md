@@ -2,15 +2,17 @@
 
 **Reading**
 
-1. [Getting Started](https://malcoded.com/posts/angular-beginners-guide)(https://angular.io/guide/quickstart).
+1. [Setting environment](https://angular.io/guide/quickstart).
 
-2. Read Angular's [Architecture](https://angular.io/guide/architecture).
+2. [Everything you need to get started](https://malcoded.com/posts/angular-beginners-guide).
 
-3. Check your code to comply with Angular's [Style Guide](https://angular.io/guide/styleguide).
+3. Read Angular's [Architecture](https://angular.io/guide/architecture).
 
-4. Learn reactive programming with [RxJS](https://angular.io/guide/rx-library)
+4. Check your code to comply with Angular's [Style Guide](https://angular.io/guide/styleguide).
 
-5. Learn how to create unit tests for your angular applications [https://angular.io/guide/testing](https://angular.io/guide/testing)
+5. Learn reactive programming with [RxJS](https://angular.io/guide/rx-library)
+
+6. Learn how to create unit tests for your angular applications [https://angular.io/guide/testing](https://angular.io/guide/testing)
 
 **Practice**
 
