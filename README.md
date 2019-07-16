@@ -27,7 +27,7 @@
 Tips:
 * Learn how to use [modules](https://angular.io/guide/architecture-modules)
 * Learn how to use [components](https://angular.io/guide/architecture-components) to structure your application
-* Learn how to use [DI](https://angular.io/guide/architecture-services)
+* Learn how to use [Services](https://angular.io/guide/architecture-services)
 
 **Key Points**
 
