@@ -2,7 +2,7 @@
 
 **Reading**
 
-1. [Setting environment](https://angular.io/guide/quickstart).
+1. [Setting environment](https://angular.io/guide/setup-local).
 
 2. [Everything you need to get started](https://malcoded.com/posts/angular-beginners-guide).
 
