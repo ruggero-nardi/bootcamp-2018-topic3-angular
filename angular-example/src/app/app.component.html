@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="row">
+    <div class=" col-md-6 col-sm-12">
+      <app-movies-list [moviesList]="movieList"></app-movies-list>
+      <button class="btn btn-primary" btn-lg btn-block (click)="addMovie()">
+        ADD MOVIE
+      </button>
+    </div>
+    <div class="col-md-6 col-sm-12">
+      <app-movie
+        *ngIf="selectedMovie"
+        [selectedMovie]="selectedMovie"
+        (deleteMovie)="deleteMovie($event)"
+      ></app-movie>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="list-group">
+  <button
+    *ngFor="let movie of moviesList; let index = index"
+    type="button"
+    class="list-group-item list-group-item-action"
+    (click)="selectMovie(movie, index)"
+  >
+    {{ movie.title ? movie.title : 'Movie title' }}
+  </button>
+</div>
