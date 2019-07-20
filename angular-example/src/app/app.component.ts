@@ -34,8 +34,8 @@ export class AppComponent implements OnInit {
     });
   }
 
-  deleteMovie(index: number) {
-    this.movieList.splice(index, 1);
+  deleteMovie() {
+    this.movieList.splice(this.selectedMovieIndex, 1);
     this.selectedMovie = undefined;
     this.selectedMovieIndex = undefined;
   }
@@ -43,5 +43,6 @@ export class AppComponent implements OnInit {
   addMovie() {
     this.movieList.push(new Movie(''));
     this.selectedMovie = this.movieList[this.movieList.length - 1];
+    this.selectedMovieIndex = this.movieList.length - 1;
   }
 }
